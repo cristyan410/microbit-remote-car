@@ -3,8 +3,7 @@
 
 Hardware needed: 
 *	2 x micro:bit
-*	1 x Line following buggy from Kitronik
-
+*	1 x Lin
 Instructions: 
   - Press A:  Sets micro:bit in remote control mode (Press A one the micro:bit you use to control the car)
   - Press B: Sets micro:bit in car control mode (press B on the micro:bit placed in the buggy)
